@@ -1,5 +1,5 @@
 {
-  "name": "lab4_yuankai_ma_server",
+  "name": "lab4_Shaohua_Bi_server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "Yuankai Ma 10479338",
+  "author": "Shaohua_Bi",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
